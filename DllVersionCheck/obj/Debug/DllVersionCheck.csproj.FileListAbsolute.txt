@@ -1,0 +1,49 @@
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\bin\Debug\DllVersionCheck.exe.config
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\bin\Debug\DllVersionCheck.exe
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\bin\Debug\DllVersionCheck.pdb
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\obj\Debug\DllVersionCheck.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\obj\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\obj\Debug\DllVersionCheckHome.g.cs
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\obj\Debug\App.g.cs
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\obj\Debug\DllVersionCheck_MarkupCompile.cache
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\obj\Debug\DllVersionCheck_MarkupCompile.lref
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\obj\Debug\App.baml
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\obj\Debug\DllVersionCheckHome.baml
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\obj\Debug\DllVersionCheck.g.resources
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\obj\Debug\DllVersionCheck.Properties.Resources.resources
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\obj\Debug\DllVersionCheck.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\obj\Debug\DllVersionCheck.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\obj\Debug\DllVersionCheck.exe
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\obj\Debug\DllVersionCheck.pdb
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\obj\Debug\DllVersionCheck_Content.g.cs
+C:\Users\Dell\Desktop\New folder\DllVersionCheck\DllVersionCheck\obj\Debug\DllVersionCheck.csproj.CopyComplete
+C:\Users\Dell\Desktop\KHOZA_TG_Assessment\Question2\DllVersionCheck\obj\Debug\DllVersionCheck.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\KHOZA_TG_Assessment\Question2\DllVersionCheck\obj\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\KHOZA_TG_Assessment\Question2\DllVersionCheck\obj\Debug\DllVersionCheckHome.g.cs
+C:\Users\Dell\Desktop\KHOZA_TG_Assessment\Question2\DllVersionCheck\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\KHOZA_TG_Assessment\Question2\DllVersionCheck\obj\Debug\App.g.cs
+C:\Users\Dell\Desktop\KHOZA_TG_Assessment\Question2\DllVersionCheck\obj\Debug\DllVersionCheck_Content.g.cs
+C:\Users\Dell\Desktop\KHOZA_TG_Assessment\Question2\DllVersionCheck\obj\Debug\DllVersionCheck_MarkupCompile.cache
+C:\Users\Dell\Desktop\KHOZA_TG_Assessment\Question2\DllVersionCheck\obj\Debug\DllVersionCheck_MarkupCompile.lref
+C:\Users\Dell\Desktop\KHOZA_TG_Assessment\Question2\DllVersionCheck\obj\Debug\DllVersionCheck.exe
+C:\Users\Dell\Desktop\KHOZA_TG_Assessment\Question2\DllVersionCheck\obj\Debug\DllVersionCheck.pdb
+C:\Users\Dell\Desktop\KHOZA_TG_Assessment\Question2\DllVersionCheck\bin\Debug\DllVersionCheck.exe.config
+C:\Users\Dell\Desktop\KHOZA_TG_Assessment\Question2\DllVersionCheck\bin\Debug\DllVersionCheck.exe
+C:\Users\Dell\Desktop\KHOZA_TG_Assessment\Question2\DllVersionCheck\bin\Debug\DllVersionCheck.pdb
+C:\Users\Dell\Desktop\KHOZA_TG_Assessment\Question2\DllVersionCheck\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Desktop\KHOZA_TG_Assessment\Question2\DllVersionCheck\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\KHOZA_TG_Assessment\Question2\DllVersionCheck\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Desktop\KHOZA_TG_Assessment\Question2\DllVersionCheck\obj\Debug\App.baml
+C:\Users\Dell\Desktop\KHOZA_TG_Assessment\Question2\DllVersionCheck\obj\Debug\DllVersionCheckHome.baml
+C:\Users\Dell\Desktop\KHOZA_TG_Assessment\Question2\DllVersionCheck\obj\Debug\DllVersionCheck.g.resources
+C:\Users\Dell\Desktop\KHOZA_TG_Assessment\Question2\DllVersionCheck\obj\Debug\DllVersionCheck.Properties.Resources.resources
+C:\Users\Dell\Desktop\KHOZA_TG_Assessment\Question2\DllVersionCheck\obj\Debug\DllVersionCheck.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\KHOZA_TG_Assessment\Question2\DllVersionCheck\obj\Debug\DllVersionCheck.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\KHOZA_TG_Assessment\Question2\DllVersionCheck\obj\Debug\DllVersionCheck.csproj.CopyComplete
